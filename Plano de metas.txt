@@ -1,4 +1,5 @@
 1-Estudar mobile
 ---------------------------------------
-2-Começar o mao de obra para web em mvc
+2-ComeÃ§ar o mao de obra para web em mvc
 ---------------------------------------
+Iniciado....
